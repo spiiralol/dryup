@@ -139,6 +139,7 @@ class DryUp:
         self.textarea.bind('<Control-o>', self.open_file)
         self.textarea.bind('<Control-s>', self.save_file)
         self.textarea.bind('<Control-S>', self.save_as)
+        #changes
 
 if __name__ == "__main__":
     master = tk.Tk()
