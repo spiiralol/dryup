@@ -1,4 +1,4 @@
-![Maintained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Maintained?](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 # DryUp
 
 ### What Is DryUp?
